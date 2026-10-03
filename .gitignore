@@ -1,7 +1,6 @@
 # Git Ignore for Typst Resume Repository
 
-# Temporary image previews
-resume-*.png
+# Temporary files
 *.tmp
 
 # System files
