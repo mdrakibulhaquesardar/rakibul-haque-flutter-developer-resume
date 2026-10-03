@@ -1,0 +1,9 @@
+# Git Ignore for Typst Resume Repository
+
+# Temporary image previews
+resume-*.png
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
