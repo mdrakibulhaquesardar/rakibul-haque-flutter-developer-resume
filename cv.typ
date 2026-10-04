@@ -122,9 +122,9 @@ Driven and detail-focused Mobile App Developer with 2.7+ years of hands-on exper
 
 #v(2.5pt)
 
-#project-header("DropLine – Local Wi-Fi & FTP/HTTP File Server App", "Flutter, Method Channels, Native Android API", "Web Landing Page", "https://dropline.netlify.app/")
-- Published as a commercial product on CodeCanyon (`3+` licenses) and web landing page (`dropline.netlify.app`) for internet-free local Wi-Fi & FTP/HTTP file sharing.
-- Utilized Flutter Method Channels to bridge native Android file APIs, enabling low-level system interactions and achieving 50MB/s transfer speeds.
+#project-header("DropLine – FTP & HTTP File Server App", "Flutter, Method Channels, Native Android API", "CodeCanyon Product", "https://codecanyon.net/item/local-wifi-file-transfer-ftp-http-server-app-android/62125050")
+- Published as a commercial product on CodeCanyon with 3+ licenses sold for high-speed local Wi-Fi & FTP/HTTP file management.
+- Utilized Method Channels to bridge native Android file APIs, enabling low-level system interactions and 50MB/s file transfer speeds.
 
 #v(2.5pt)
 
